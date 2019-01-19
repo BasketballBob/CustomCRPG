@@ -5,3 +5,10 @@ C:\Users\Julien\source\repos\CustomCRPG\CustomCRPG\obj\Debug\CustomCRPG.csprojAs
 C:\Users\Julien\source\repos\CustomCRPG\CustomCRPG\obj\Debug\CustomCRPG.csproj.CoreCompileInputs.cache
 C:\Users\Julien\source\repos\CustomCRPG\CustomCRPG\obj\Debug\CustomCRPG.exe
 C:\Users\Julien\source\repos\CustomCRPG\CustomCRPG\obj\Debug\CustomCRPG.pdb
+C:\Users\Julien\source\repos\CustomCRPGFolder\CustomCRPG\CustomCRPG\obj\Debug\CustomCRPG.csprojAssemblyReference.cache
+C:\Users\Julien\source\repos\CustomCRPGFolder\CustomCRPG\CustomCRPG\obj\Debug\CustomCRPG.csproj.CoreCompileInputs.cache
+C:\Users\Julien\source\repos\CustomCRPGFolder\CustomCRPG\CustomCRPG\obj\Debug\CustomCRPG.exe
+C:\Users\Julien\source\repos\CustomCRPGFolder\CustomCRPG\CustomCRPG\obj\Debug\CustomCRPG.pdb
+C:\Users\Julien\source\repos\CustomCRPGFolder\CustomCRPG\CustomCRPG\bin\Debug\CustomCRPG.exe.config
+C:\Users\Julien\source\repos\CustomCRPGFolder\CustomCRPG\CustomCRPG\bin\Debug\CustomCRPG.exe
+C:\Users\Julien\source\repos\CustomCRPGFolder\CustomCRPG\CustomCRPG\bin\Debug\CustomCRPG.pdb
